@@ -1,4 +1,4 @@
-# DeepFrag-Fusion: Cancer Detection via cfDNA Fragmentomics, Wavelets, and Adaptive Model Fusion
+# DualFrag: A Dual-Branch Deep Learning and Graph Convolutional Framework for Cancer-versus-Healthy Classification Using cfDNA Fragmentomics
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
