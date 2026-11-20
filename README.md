@@ -14,7 +14,7 @@ This pipeline processes high-throughput genome-wide cfDNA fragment profiles to d
 
 - `DNN_Model.py`: Deep Neural Network (DNN) architecture utilizing wavelet-transformed cfDNA fragment profiles.
 - `GCN_Maker.py`: Graph construction utility (K-Nearest Neighbors / similarity graphs based on profile features and patient metadata).
-- `GCN_Model.py` / `GCN_Model_mlp.py`: Graph Convolutional Network (GCN) implementations for relational fragmentomic feature learning.
+- `GCN_Model.py`: Graph Convolutional Network (GCN) implementations for relational fragmentomic feature learning.
 - `Adaptive_Fusion.py`: Ensemble fusion framework combining DNN, GCN, and base learners using adaptive residual gating and validation-optimized log-loss minimization.
 
 ---
